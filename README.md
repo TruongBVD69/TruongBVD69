@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Linux system and programming.**
 
-- 💬 Ask me about **C/CPP Programming Language, Embedded System, Embedded IOT, Embedded Linux System.**
+- 💬 Ask me about **C/CPP/C# Programming Language, Embedded System, Embedded IOT, Embedded Linux System.**
 
 - 📫 How to reach me **Truong.bvd.bkhn.dev@gmail.com**
 
